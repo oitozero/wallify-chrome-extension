@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Wallify",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Another brick in the wall.",
+    "description": "The description of the application"
+  }
+}

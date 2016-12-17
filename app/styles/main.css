@@ -1,0 +1,38 @@
+#app .container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#app .wall {
+  height: 100%;
+  width: 100%;
+  display: table;
+}
+#app .wall-quote {
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+  text-align: center;
+}
+#app .wall-quote span {
+  font-size: 64px;
+}
+
+#options {
+  color: #EE5252;
+  font-family: 'Ubuntu', sans-serif;
+}
+#options .title {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 48px;
+  padding-bottom: 20px;
+}
+#options .alert {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
